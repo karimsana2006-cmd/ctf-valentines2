@@ -27,7 +27,7 @@
 <body>
     <h1>💖 Congratulations! 💖</h1>
     <p>You discovered Cupid’s secret.🏹</p>
-    <p>The flag is closer then it seems! Maybe hello kitty can help!🎀</p>
+    <p>Flag:<CTF{CupidsLoveWebsite}🎀</p>
    <img src="download_hidden.png" alt="Encoded Image">
 </body>
 </html>
